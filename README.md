@@ -1,4 +1,4 @@
-![Snake Game](https://dfilitto.com.br/wp-content/uploads/2022/01/Unity-Snake-Game.jpg)
+![Snake Game]([https://dfilitto.com.br/wp-content/uploads/2022/01/Unity-Snake-Game.jpg](https://github.com/dfilitto/UnitySnakeGame/blob/main/Unity%20-%20Snake%20Game.jpg?raw=true))
 # Unity Snake Game
 
 Que tal aprender a criar jogos 2D utilizando uma das engines de desenvolvimento mais utilizadas no mercado de jogos e ainda publicar o seu primeiro jogo nas plataformas de venda e divulgação mais utilizadas pelos desenvolvedores de jogos indie.
